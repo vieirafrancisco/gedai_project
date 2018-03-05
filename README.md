@@ -1,10 +1,13 @@
 # TDAH APP
 TDAH app
 
-# Descrição:
+## Descrição:
 
-# Equipe:
+## Equipe:
 Francisco Vieira
+
 Iago Conrado
+
 Lucas Emanuel
+
 Luenda Gonçalves
